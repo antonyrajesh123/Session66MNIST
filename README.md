@@ -1,10 +1,10 @@
-# My Project
+# Image identification using MNIST dataset(99.5% accuracy)
 
 [![Model Validation](https://github.com/antonyrajesh123/Session66MNIST/actions/workflows/model_check.yaml/badge.svg)](https://github.com/antonyrajesh123/Session66MNIST/actions/workflows/model_check.yaml)
 
 # Test Logs
 
-This document provides a summary of the test logs generated during the training process.
+This document provides a summary of the test logs generated during the training process and training parameters
 
 ## Training and Testing Summary
 
