@@ -1,3 +1,7 @@
+# My Project
+
+[![Model Validation](https://github.com/antonyrajesh123/Session66MNIST/actions/workflows/model_check.yaml/badge.svg)](https://github.com/antonyrajesh123/Session66MNIST/actions/workflows/model_check.yaml)
+
 # Test Logs
 
 This document provides a summary of the test logs generated during the training process.
