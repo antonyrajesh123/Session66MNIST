@@ -18,7 +18,7 @@ def check_model():
     print(f"Use of DropOut: {'Yes' if has_dropout else 'No'}")
 
     # Check for Fully Connected Layer or GAP
-    has_fc_or_gap = any(isinstance(layer, nn.Linear) or isinstance(layer, nn.AdaptiveAvgPool2d)
+    has_fc_or_gap = any(isinstance(layer, nn.Linear) or isinstance(layer, nn.AvgPool2d)
                         for layer in model.modules())
     print(f"Use of Fully Connected Layer or GAP: {'Yes' if has_fc_or_gap else 'No'}")
 
